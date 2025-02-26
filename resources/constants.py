@@ -1,2 +1,8 @@
-TEST_SITE_URL = "https://demo.guru99.com/test/newtours/index.php"
-MAX_WAIT_INTERVAL = 60
+TEST_SITE_URL = "https://demo.guru99.com/payment-gateway/purchasetoy.php"
+MAX_WAIT_INTERVAL = 10
+
+QTY_DROPDOWN_INDEX = 4
+CARD_NUMBER = 1111111111111111
+CVV = 111
+MONTH_DROPDOWN_INDEX = 5
+YEAR_DROPDOWN_INDEX = 6

@@ -1,5 +1,5 @@
 [project]
-name = "testtravelwebsiteproject"
+name = "seleniumfinalproject-test"
 version = "0.1.0"
 description = ""
 authors = [
@@ -17,7 +17,6 @@ selenium = "^4.11.2"
 pytest = "7.4.0"
 junit-xml = "1.9"
 pytest-html = "3.2.0"
-
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
